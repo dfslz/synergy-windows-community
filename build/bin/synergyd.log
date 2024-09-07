@@ -1,0 +1,35 @@
+[2024-09-07T14:32:38] INFO: service status: idle
+[2024-09-07T14:32:38] INFO: service command updated
+[2024-09-07T14:32:39] INFO: starting new process
+[2024-09-07T14:32:39] INFO: activeDesktop:Default
+
+[2024-09-07T14:32:39] INFO: starting new process
+[2024-09-07T14:32:39] NOTE: started server, waiting for clients
+
+[2024-09-07T14:32:39] INFO: service status: active
+[2024-09-07T14:33:23] INFO: service command updated
+[2024-09-07T14:33:23] INFO: process started but command is empty, shutting down
+[2024-09-07T14:33:23] INFO: got ipc shutdown message
+
+[2024-09-07T14:33:23] WARNING: current primary screen is not entered on shutdown
+
+
+[2024-09-07T14:33:23] NOTE: stopped server
+
+[2024-09-07T14:33:29] INFO: service command updated
+[2024-09-07T14:33:29] INFO: starting new process
+[2024-09-07T14:33:29] INFO: activeDesktop:Default
+
+[2024-09-07T14:33:29] INFO: starting new process
+[2024-09-07T14:33:29] NOTE: started server, waiting for clients
+
+[2024-09-07T14:33:29] INFO: service status: active
+[2024-09-07T14:33:38] INFO: service command updated
+[2024-09-07T14:33:38] INFO: process started but command is empty, shutting down
+[2024-09-07T14:33:38] INFO: got ipc shutdown message
+
+[2024-09-07T14:33:38] WARNING: current primary screen is not entered on shutdown
+
+
+[2024-09-07T14:33:38] NOTE: stopped server
+

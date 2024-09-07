@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+    <?define Name="Synergy"?>
+    <?define Version="1.15.1.0"?>
+    <?define Author="Symless"?>
+    <?define BinPath="D:/program/synergy/synergy-1.15.1-r1/build/bin"?>
+    <?define ResPath="D:/program/synergy/synergy-1.15.1-r1/res"?>
+    <?define ExtPath="D:/program/synergy/synergy-1.15.1-r1/ext"?>
+    <?if $(var.Platform) = "x64"?>
+    <?define ProgramFilesFolder="ProgramFiles64Folder"?>
+    <?define PlatformSimpleName="64-bit"?>
+    <?define UpgradeGuid="E8A4FA54-14B9-4FD1-8E00-7BC46555FDA0"?>
+    <?else?>
+    <?define ProgramFilesFolder="ProgramFilesFolder"?>
+    <?define PlatformSimpleName="32-bit"?>
+    <?define UpgradeGuid="BE0B9FD8-45E2-4A8E-A0D8-1F774D074A78"?>
+    <?endif?>
+    <?define QtPath="D:\program\synergy\synergy-1.15.1-r1\deps\qt\6.7.2\msvc2019_64"?>
+    <?define QtBinPath="$(var.QtPath)\bin"?>
+    <?define QtPluginsPath="$(var.QtPath)\plugins"?>
+    <?define OpenSSLPath="C:/Program Files/OpenSSL-Win64"?>
+    <?define OpenSSLBinPath="$(var.OpenSSLPath)\bin"?>
+</Include>
